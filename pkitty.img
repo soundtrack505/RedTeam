@@ -38,7 +38,7 @@
 # Testttttttttttdskfljsdlkfhsdlfhailf hlihf; o# Testttttttttttdskfljsdlkfhsdlfhailf hlihf; o
 # Testttttttttttdskfljsdlkfhsdlfhailf hlihf; o
 # Testttttttttttdskfljsdlkfhsdlfhailf hlihf; o
-function start-this
+function kitty
 {
   param(
     [alias("Client")][string]$c="",
